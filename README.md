@@ -52,6 +52,6 @@ To deploy SuperHeros! to GitHub Pages from its [GitHub repository](https://githu
 #### Disclaimer
 
 
-Thank you for taking your time to read this and if you haven't please have a go at the game. 
+Thank you for taking your time to read this. 
 
 Afra. 
