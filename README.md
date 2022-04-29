@@ -39,13 +39,13 @@ Testing information can be found in separate [testing.md](testing.md) file
 
 This project was developed using the [Visual Studio Code](https://code.visualstudio.com/), committed to git and pushed to GitHub. 
 
-To deploy SuperHeros! to GitHub Pages from its [GitHub repository](https://github.com/afratetlay/tailwindcss-landing-page), the following steps were taken: 
+To deploy Tailwindcss Landing page! to GitHub Pages from its [GitHub repository](https://github.com/afratetlay/tailwindcss-landing-page), the following steps were taken: 
 1. Log into GitHub. 
-2. From the list of repositories on the screen, select **afratetlay/memory_game**.
+2. From the list of repositories on the screen, select **afratetlay/tailwindcss-landing-page**.
 3. From the menu items near the top of the page, select **Settings**.
 4. Scroll down to the **GitHub Pages** section.
 5. Under **Source** click the drop-down menu labelled **None** and select **Master Branch**
-6. On selecting Master Branch the page is automatically refreshed, PicFlip! is now deployed. 
+6. On selecting Master Branch the page is automatically refreshed, Tailwindcss Landing page! is now deployed. 
 7. Scroll back down to the **GitHub Pages** section to retrieve the link to the deployed website.
 
 
